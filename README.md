@@ -1,7 +1,7 @@
 # intro2julia
 
 This repository contains code examples, text files, IJulia notebooks and other general materials related
-to introducing the Julia programming language, discussing its features and highlighting how it peforms <br>
+to introducing the Julia programming language, discussing its features and highlighting how it peforms. <br>
 
 It is a hodgepodge of different topics, so be warned. Just pay attention to file names.<br>
 
@@ -20,8 +20,6 @@ You will only need access to a machines running at least Julia version 0.6.2, If
 
 
 ### Installing
-
-Lucky you.. nothing to install!
 
 Please go [here](https://julialang.org/downloads) for information on downloading Julia code <br>
 
